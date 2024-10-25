@@ -54,6 +54,8 @@ div#menu > ul > li > a{
     color: white;
     padding-left: 40px;
     font-size: 0.9em;
+    display: flex;
+    transform: translate(0px, -30px)
 }
 
 div#menu > ul > li > a:hover{
